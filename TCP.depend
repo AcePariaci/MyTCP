@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1403614572 source:c:\cours\workspaces\c++\tcp\client.c
+	<windows.h>
+	<winsock2.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+
